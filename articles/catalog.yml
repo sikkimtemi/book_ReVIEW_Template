@@ -1,0 +1,12 @@
+PREDEF:
+  - 0_opening.re
+
+CHAPS:
+  - 1_chapter1.re
+  - 2_chapter2.re
+
+APPENDIX:
+
+POSTDEF:
+  - 3_ending.re
+  - contributor.re

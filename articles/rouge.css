@@ -1,0 +1,221 @@
+.highlight table td { padding: 5px; }
+.highlight table pre { margin: 0; }
+.highlight {
+  color: #faf6e4;
+  background-color: #122b3b;
+  font-family: monospace;
+}
+.highlight .gl {
+  color: #dee5e7;
+  background-color: #4e5d62;
+  font-family: monospace;
+}
+.highlight .gp {
+  color: #a8e1fe;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .c, .highlight .ch, .highlight .cd, .highlight .cm, .highlight .cpf, .highlight .c1, .highlight .cs {
+  color: #6c8b9f;
+  font-style: italic;
+  font-family: monospace;
+}
+.highlight .cp {
+  color: #b2fd6d;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .err {
+  color: #fefeec;
+  background-color: #cc0000;
+  font-family: monospace;
+}
+.highlight .gr {
+  color: #cc0000;
+  font-weight: bold;
+  font-style: italic;
+  font-family: monospace;
+}
+.highlight .k, .highlight .kd, .highlight .kv {
+  color: #f6dd62;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .o, .highlight .ow {
+  color: #4df4ff;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .p, .highlight .pi {
+  color: #4df4ff;
+  font-family: monospace;
+}
+.highlight .gd {
+  color: #cc0000;
+  font-family: monospace;
+}
+.highlight .gi {
+  color: #b2fd6d;
+  font-family: monospace;
+}
+.highlight .ge {
+  font-style: italic;
+  font-family: monospace;
+}
+.highlight .gs {
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .gt {
+  color: #dee5e7;
+  background-color: #4e5d62;
+  font-family: monospace;
+}
+.highlight .kc {
+  color: #f696db;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .kn {
+  color: #ffb000;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .kp {
+  color: #ffb000;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .kr {
+  color: #ffb000;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .gh {
+  color: #ffb000;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .gu {
+  color: #ffb000;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .kt {
+  color: #b2fd6d;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .no {
+  color: #b2fd6d;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .nc {
+  color: #b2fd6d;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .nd {
+  color: #b2fd6d;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .nn {
+  color: #b2fd6d;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .bp {
+  color: #b2fd6d;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .ne {
+  color: #b2fd6d;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .nl {
+  color: #ffb000;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .nt {
+  color: #ffb000;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .m, .highlight .mb, .highlight .mf, .highlight .mh, .highlight .mi, .highlight .il, .highlight .mo, .highlight .mx {
+  color: #f696db;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .ld {
+  color: #f696db;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .ss {
+  color: #f696db;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .s, .highlight .sb, .highlight .dl, .highlight .sd, .highlight .s2, .highlight .sh, .highlight .sx, .highlight .sr, .highlight .s1 {
+  color: #fff0a6;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .sa {
+  color: #f6dd62;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .se {
+  color: #4df4ff;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .sc {
+  color: #4df4ff;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .si {
+  color: #4df4ff;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .nb {
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .ni {
+  color: #999999;
+  font-weight: bold;
+  font-family: monospace;
+}
+.highlight .w {
+  color: #BBBBBB;
+  font-family: monospace;
+}
+.highlight .go {
+  color: #BBBBBB;
+}
+.highlight .nf, .highlight .fm {
+  color: #a8e1fe;
+  font-family: monospace;
+}
+.highlight .py {
+  color: #a8e1fe;
+  font-family: monospace;
+}
+.highlight .na {
+  color: #a8e1fe;
+  font-family: monospace;
+}
+.highlight .nv, .highlight .vc, .highlight .vg, .highlight .vi, .highlight .vm {
+  color: #a8e1fe;
+  font-weight: bold;
+  font-family: monospace;
+}
